@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">catálogo de películas</string>
+    <string name="title_home">casa</string>
+
+    <string name="title_menu_movies">películas</string>
+    <string name="title_menu_tvshow">programa de televisión</string>
+
+    <string name="title_activity_movie_detail">detalle de la pelicula</string>
+    <string name="image_poster">cartel de imagen</string>
+    <string name="date_relealesed">Fecha de publicación</string>
+    <string name="user_score">87%</string>
+    <string name="runtime">1h 45m</string>
+    <string name="star_icon">icono de estrella</string>
+    <string name="timer_icon">icono del temporizador</string>
+    <string name="title">título</string>
+    <string name="status">Publicado</string>
+    <string name="status_detail">Released</string>
+    <string name="icon_released_detail">icono publicado detalle</string>
+    <string name="first_line">primera linea</string>
+    <string name="second_line">segunda linea</string>
+    <string name="title_budgets">presupuesto</string>
+    <string name="budget">$4,000,000,00</string>
+    <string name="title_revenue">Ingresos</string>
+    <string name="revenue">$19,000,000,00</string>
+    <string name="title_overview">General</string>
+    <string name="third_line">tercera linea</string>
+    <string name="languange">Spanish</string>
+    <string name="icon_language">lenguaje de iconos</string>
+    <string name="genres">Géneros</string>
+    <string name="genre_detail">Detalle de genero</string>
+    <string name="detail_overview">Detalle de detalle</string>
+    <string name="title_crew">el personal</string>
+    <string name="crew_detail">Detalle de la tripulación</string>
+    <string name="change_language_settings">Configuración de idioma</string>
+</resources>
